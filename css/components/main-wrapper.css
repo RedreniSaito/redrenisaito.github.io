@@ -1,0 +1,28 @@
+.main-wrapper.-skill {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-wrapper.-skill .skill-tec {
+    width: 430px;
+    margin-bottom: 40px;
+}
+
+.main-wrapper.-skill .skill-tec:nth-child(odd) {
+    margin-right: 100px;
+}
+
+.main-wrapper.-skill .progress-bar {
+    width: 320px;
+}
+
+.main-wrapper.-projects {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 140px;
+    margin-right: 140px;
+}
