@@ -1,15 +1,20 @@
 .main-section {
-    background-color: #ffc395;
+    background-color: #FFC395;
     padding-top: 50px;
     padding-bottom: 100px;
     border-bottom: 10px solid #f25d3e;
 }
 
-.main-section .main-title {
+.main-section .main-tite {
     margin-bottom: 60px;
 }
 
 .main-section.-projects {
     background-color: #5d0000;
     border-bottom: 10px solid #3A4042
+}
+
+.main-section.-about {
+    background-color: #E67051;
+    border-bottom: 10px solid #000;
 }
