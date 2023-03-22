@@ -1,8 +1,8 @@
 .main-section {
     background-color: #FFC395;
-    padding-top: 50px;
-    padding-bottom: 100px;
     border-bottom: 10px solid #f25d3e;
+    padding-top: 20px;
+    padding-bottom: 50px;
 }
 
 .main-section .main-tite {
@@ -11,7 +11,7 @@
 
 .main-section.-projects {
     background-color: #5d0000;
-    border-bottom: 10px solid #3A4042
+    border-bottom: 10px solid #3A4042;
 }
 
 .main-section.-about {
